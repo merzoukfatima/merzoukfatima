@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently enrolled in [Re:coded Frontend Bootcamp](https://www.re-coded.com/bootcamps/frontend-bootcamp)
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 I’m currently learning **React, JavaScript and NextJs**
 
 - 👯 I’m looking to collaborate on **blending my AI expertise with web development to create more intuitive and user-friendly interfaces.**
 
