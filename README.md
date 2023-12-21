@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Zohra MERZOUK</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A frontend developer from Algeria</h3>
 
 - 🔭 I’m currently enrolled in [Re:coded Frontend Bootcamp](https://www.re-coded.com/bootcamps/frontend-bootcamp)
 
