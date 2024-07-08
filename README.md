@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima Zohra MERZOUK</h1>
 <h3 align="center">A frontend developer from Algeria</h3>
 
-- 🔭 I was enrolled in [Re:coded Frontend Bootcamp](https://www.re-coded.com/bootcamps/frontend-bootcamp)
+<!--- 🔭 I was enrolled in [Re:coded Frontend Bootcamp](https://www.re-coded.com/bootcamps/frontend-bootcamp)-->
 
 - 🌱 I’m currently learning **React, JavaScript and NextJs**
 
