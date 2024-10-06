@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, JavaScript and NextJs**
 
-- 👯 I’m looking to collaborate on **blending my AI expertise with web development to create more intuitive and user-friendly interfaces.**
+<!---- 👯 I’m looking to collaborate on **blending my AI expertise with web development to create more intuitive and user-friendly interfaces.**
 
-- 🤝 I’m looking for help with **conquering the problem of fake news and misinformation**
+- 🤝 I’m looking for help with **conquering the problem of fake news and misinformation**-->
 
 - 💬 Ask me about **my projects I'll be happy to tell you more about them**
 
